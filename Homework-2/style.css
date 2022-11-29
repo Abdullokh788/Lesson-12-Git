@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.head-box{
+    display: flex;
+}
+.main .h2{
+    width: 280px;
+}
+.main p{
+    color: black;
+    margin-top: 30px;
+    width: 300px;
+}
+.main{
+    width:450px;
+    margin-left: 200px;
+    margin-top: 140px;
+    height: 500px;
+}
+button{
+    margin-top: 20px;
+    width:150px;
+    padding: 15px 10px;
+    background:green;
+    color: white; 
+    border:none;
+}
+.gradient{
+    display: flex;
+    position: relative;
+    margin-right: 150px;
+    margin-top: 100px;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background-image: radial-gradient(white,#EEF2F5,#F3F7FA,#E0E8EB);
+}
+.img1{
+    position: absolute;
+    left: 0px;
+    top: 100px;
+}
+.img2{
+    position: absolute;
+    right: 0px;
+    top: 100px;
+}
+.img3{
+    position: absolute;
+    top: 230px;
+    left: 80px;
+}
+.img4{
+    position: absolute;
+    top: 295px;
+    left: 280px;
+}
+.img5{
+    position: absolute;
+    left: 150px;
+    top: 445px;
+}
+.img6{
+    position: absolute;
+    left: 260px;
+    top: 140px; 
+}
